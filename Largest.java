@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Largest {
     public static void main(String[] args) {
 
-        Scanner scan = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);   // 3 input number
 
         //=====IF AND ELSE METHOD=====
         /* int a = scan.nextInt();

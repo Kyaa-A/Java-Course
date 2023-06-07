@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class EvenOrOdd {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in); // Input any number
 
         //Simple Method
         /* int num = scan.nextInt();
