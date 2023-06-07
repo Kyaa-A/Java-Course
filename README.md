@@ -10,3 +10,9 @@ Activity
 2. Write a program to print whether a number is even or odd, also take input from the user.
 3. Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
 4. Take 2 numbers as input and print the largest number.
+
+
+Links
+
+https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments
+https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/assignments/02-first-java.md
