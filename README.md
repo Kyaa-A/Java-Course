@@ -4,6 +4,7 @@ Broad Map
 1. Input and Output
 2. If and Else
 3. Looping
+4. Switch Statements
 
 Activity
 1. Take name as input and print a greeting message for that particular name.
