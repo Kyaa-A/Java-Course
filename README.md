@@ -5,6 +5,7 @@ Broad Map
 2. If and Else
 3. Looping
 4. Switch Statements
+5. Methods
 
 Activity
 1. Take name as input and print a greeting message for that particular name.
