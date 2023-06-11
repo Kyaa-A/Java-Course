@@ -6,6 +6,8 @@ Broad Map
 3. Looping
 4. Switch Statements
 5. Methods
+6. Array
+7. ArrayList
 
 Activity
 1. Take name as input and print a greeting message for that particular name.
