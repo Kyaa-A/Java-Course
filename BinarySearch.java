@@ -13,6 +13,8 @@ public class BinarySearch {
         int start = 0;
         int end = arr.length - 1;
 
+        //array is sorted in ascending order
+        
         while (start <= end) {
             int mid = start + (end - start) / 2;
 
